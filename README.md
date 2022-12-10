@@ -17,11 +17,25 @@ boundaries of what's possible with technology.
 
 ## My Projects
 
-- [](): Road-damage detection and classification using YOLO Object Detection algorithm
-- [](): Natural Language Processing application for hate speech classification, from webscrapping for data collection to a graphical user interface, using Python, RapidMiner and Pentaho
+- [Antenna Array Design Tool](): 
+
+- [Diabetes Predictor (*with decission trees*)](https://github.com/allanes/curso_aprendizaje_autom_tp1/blob/main/ejercicio1.ipynb): An introductory diabetes predictor using decission trees to classify single-class output
+
+- [Diabetes Predictor (*with neural networks*)](https://github.com/allanes/curso_aprendizaje_autom_tp3): Same as above, using neural networks to classify the output
+
+- [Mall decisions helper](https://github.com/allanes/curso_aprendizaje_autom_tp2): An introductory hypothesis validator for malls, based on a Kaggle dataset
+
+- [Road-damage detector](https://github.com/allanes/pothole-detector-gui): Full desktop application for Road-damage detection and classification using YOLO Object Detection algorithm
+
+- [Hate speech detector](): Full dektop application for hate speech classification using  
+Natural Language Processing. From webscrapping for data collection to a graphical user interface, using Python, RapidMiner and Pentaho
+
 - [](): Home automation system for infrared, power consumption, temperature and lights control using ESP32 and Arduino
+
 - [](): Cloud-connected temperature sensing system for a refrigerator for commercial use using ESP8266
+
 - [](): LED lighting for streets and warehouses PCB design 
+
 
 - [](): E-Commerce Early Fraud Detection app, performing ETL operations from commercial services like VTEX and MercadoLibre and automatic sync in Google Sheets 
 
