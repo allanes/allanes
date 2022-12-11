@@ -20,8 +20,7 @@ boundaries of what's possible with technology.
 
 - [Road-damage detector](https://github.com/allanes/pothole-detector-gui): Full desktop application for Road-damage detection and classification using YOLO Object Detection algorithm
 
-- [Hate speech detector](): Full dektop application for hate speech classification using  
-Natural Language Processing. From webscrapping for data collection to a graphical user interface, using Python, RapidMiner and Pentaho
+- [Hate speech detector](): Full dektop application for hate speech classification using Natural Language Processing. From webscrapping for data collection to a graphical user interface, using Python, RapidMiner and Pentaho
 
 - [Diabetes Predictor (*with decission trees*)](https://github.com/allanes/curso_aprendizaje_autom_tp1/blob/main/ejercicio1.ipynb): An introductory diabetes predictor using decission trees to classify single-class output
 
