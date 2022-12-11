@@ -16,7 +16,7 @@ boundaries of what's possible with technology.
 
 ## My Projects
 
-- [Antenna Array Design Tool](https://github.com/allanes/antenna-array-design-tool): Full desktop application tool for designing Antenna Arrays.
+- [Antenna Array Design Tool](https://github.com/allanes/antenna-array-design-tool): Full desktop application tool for designing Antenna Arrays
 
 - [Road-damage detector](https://github.com/allanes/pothole-detector-gui): Full desktop application for Road-damage detection and classification using YOLO Object Detection algorithm
 
