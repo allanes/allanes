@@ -14,10 +14,14 @@ use my skills and knowledge to tackle real-world challenges and push the
 boundaries of what's possible with technology.
 
 
-
 ## My Projects
 
-- [Antenna Array Design Tool](): 
+- [Antenna Array Design Tool](https://github.com/allanes/antenna-array-design-tool): Full desktop application tool for designing Antenna Arrays.
+
+- [Road-damage detector](https://github.com/allanes/pothole-detector-gui): Full desktop application for Road-damage detection and classification using YOLO Object Detection algorithm
+
+- [Hate speech detector](): Full dektop application for hate speech classification using  
+Natural Language Processing. From webscrapping for data collection to a graphical user interface, using Python, RapidMiner and Pentaho
 
 - [Diabetes Predictor (*with decission trees*)](https://github.com/allanes/curso_aprendizaje_autom_tp1/blob/main/ejercicio1.ipynb): An introductory diabetes predictor using decission trees to classify single-class output
 
@@ -25,23 +29,14 @@ boundaries of what's possible with technology.
 
 - [Mall decisions helper](https://github.com/allanes/curso_aprendizaje_autom_tp2): An introductory hypothesis validator for malls, based on a Kaggle dataset
 
-- [Road-damage detector](https://github.com/allanes/pothole-detector-gui): Full desktop application for Road-damage detection and classification using YOLO Object Detection algorithm
+- [Domotito](https://github.com/allanes/domotito): Home automation system for infrared, power consumption, temperature and lights control using ESP32 and Arduino
 
-- [Hate speech detector](): Full dektop application for hate speech classification using  
-Natural Language Processing. From webscrapping for data collection to a graphical user interface, using Python, RapidMiner and Pentaho
+- [Cajita Magica](https://github.com/allanes/cajita_magica): A Cloud-connected temperature sensing system for a refrigerator for commercial use using ESP8266
 
-- [](): Home automation system for infrared, power consumption, temperature and lights control using ESP32 and Arduino
-
-- [](): Cloud-connected temperature sensing system for a refrigerator for commercial use using ESP8266
-
-- [](): LED lighting for streets and warehouses PCB design 
-
-
-- [](): E-Commerce Early Fraud Detection app, performing ETL operations from commercial services like VTEX and MercadoLibre and automatic sync in Google Sheets 
 
 ## Links
 
-- [LinkedIn](https://www.linkedin.com/in/adrian-llanes/?locale=en_US): Add a link to your LinkedIn profile here, if you have one.
+- [LinkedIn](https://www.linkedin.com/in/adrian-llanes/?locale=en_US)
 
 ## Contact
 
