@@ -16,11 +16,13 @@ challenges and push the boundaries of what's possible with technology.
 
 ## My Projects
 
+- [Medical Center Appointment Manager](https://github.com/allanes/turnos-cm-frontend): Web application for daily appointments management and display in medical centers
+
 - [Antenna Array Design Tool](https://github.com/allanes/antenna-array-design-tool): Full desktop application tool for designing Antenna Arrays
 
 - [Road-damage detector](https://github.com/allanes/pothole-detector-gui): Full desktop application for Road-damage detection and classification using YOLO Object Detection algorithm
 
-- [Hate speech detector](): Full dektop application for hate speech classification using Natural Language Processing. From webscrapping for data collection to a graphical user interface, using Python, RapidMiner and Pentaho
+- [Hate speech detector](https://github.com/allanes/hate-speech-recognition): Full dektop application for hate speech classification using Natural Language Processing. From webscrapping for data collection to a graphical user interface, using Python, RapidMiner and Pentaho
 
 - [Diabetes Predictor (*with decission trees*)](https://github.com/allanes/curso_aprendizaje_autom_tp1/blob/main/ejercicio1.ipynb): An introductory diabetes predictor using decission trees to classify single-class output
 
