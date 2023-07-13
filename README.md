@@ -16,7 +16,7 @@ challenges and push the boundaries of what's possible with technology.
 
 ## My Projects
 
-- [Medical Center Appointment Manager](https://github.com/allanes/turnos-cm-frontend/tree/TURNOS-58-Armar-Tutorial): Web application for daily appointments management and display in medical centers
+- [Medical Center Appointment Manager](https://github.com/allanes/turnos-cm-frontend/tree/dev): Web application for daily appointments management and display in medical centers
 
 - [Antenna Array Design Tool](https://github.com/allanes/antenna-array-design-tool): Full desktop application tool for designing Antenna Arrays
 
