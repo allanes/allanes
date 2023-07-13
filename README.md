@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! I'm Adrian Llanes, and I'm a tech enthusiast with a passion for AI. 
+Hi there! I'm Adrian and I'm a tech enthusiast with a passion for AI. 
 I'm always on the lookout for the latest advancements in the field, and I 
 enjoy experimenting with new technologies and building projects that showcase 
 the power of AI.
