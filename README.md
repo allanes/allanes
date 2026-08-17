@@ -7,10 +7,10 @@ I'm always on the lookout for the latest advancements in the field, and I
 enjoy experimenting with new technologies.
 
 In addition to my passion for AI, I have a background in data analysis, machine
-learning, embedded systems, and web app development. I'm currently pursuing a 
-Ph. D, where I'm gaining expertise in radar techniques, data processing and 
-software life-cycle. I'm excited to use my skills and knowledge to tackle real-world 
-challenges and push the boundaries of what's possible with technology.
+learning, embedded systems, and web app development. I've gained experience in radar 
+techniques, data processing and software life-cycle. I'm excited to use my skills 
+and knowledge to tackle real-world challenges and push the boundaries of what's 
+possible with technology.
 
 
 ## My Projects
